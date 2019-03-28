@@ -1,0 +1,62 @@
+.head{
+	width:100%;
+	height: 200px;
+	
+	
+	background:url(background.jpg);
+}
+
+.logo{
+	float: left;
+	margin-left:100px;
+	margin-top:50px;
+	opacity: 0.8;
+}
+.element{
+	margin-top:35px;
+	margin-left:20px;
+	float: left;
+	color:white;
+	font-size:25px;
+
+}
+a{
+	color:white;
+}
+a:hover{
+	color:red;
+}
+
+.text{
+	float:left;
+}
+
+.propan{
+	margin-left:50px;
+	margin-top:0px;
+}
+.base{
+	width:900px;
+	height: 700px;
+	margin: auto;
+}
+
+.mangal:hover{
+	border:2px #A4a195 solid;
+
+}
+.mangal{
+	
+/*	margin-left:30px; */ 
+	float: left;
+	height: 300px;
+	width: 300px;
+	margin-top:10px;
+	padding:10px;
+	
+   
+}
+.footer{
+	height: 100px;
+	background: #777;
+}
